@@ -1,7 +1,27 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=soft&color=E1F7D5&fontSize=14&height=70&text=sumin-nl-🌻🐬🐳🐰🐈‍⬛🎈✨🎀🎢🏸🧸🎧🎸🎹💻📸💾📖🍔🥨🍞🥐🥯🥖🫓🧀🥪🍧🍩🍪🍰🎂🍫☕🍷🍸🍻🍍🍓🍀🌕🌟☀️🤍💗🌻)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftnals2384&count_bg=%23FFDFFD&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hi%21&edge_flat=false)](https://hits.seeyoufarm.com)
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnals2384)](https://solved.ac/tnals2384)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D8F781&height=100&section=header" />
+
+### HI !👋
+<img src="https://img.shields.io/badge/tnals2384@gmail.com-E4405F?style=flat-square&logo=Gmail&logoColor=white"/> [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnals2384)](https://solved.ac/tnals2384)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnals2384&layout=compact)
+
+### SKILLS 💡
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <!--
 **tnals2384/tnals2384** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
