@@ -1,9 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FEFD48&height=100&section=header" />
 
 ### HI !👋
-<img src="https://img.shields.io/badge/tnals2384@gmail.com-E4405F?style=flat-square&logo=Gmail&logoColor=white"/> [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=tnals2384)](https://solved.ac/tnals2384)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnals2384&layout=compact)
+<img src="https://img.shields.io/badge/tnals2384@gmail.com-E4405F?style=flat-square&logo=Gmail&logoColor=white"/> 
 
 ### SKILLS 💡
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
